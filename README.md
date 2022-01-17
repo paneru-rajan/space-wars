@@ -9,25 +9,25 @@ version you are on your own. Following is one by one step to have it installed.
 
 1. Pull the repo
 
-```shell
-git clone git@github.com:Samul333/space-wars.git
-cd space-wars
-```
+    ```shell
+    git clone git@github.com:Samul333/space-wars.git
+    cd space-wars
+    ```
 
 2. Create virtualenv if you haven't created already, if you need help try googling.
 3. Activate your virtual env
 4. Install requirements
 
-```shell
-pip install -r requirements.txt
-```
+    ```shell
+    pip install -r requirements.txt
+    ```
 
 5. Run
 
-```shell
-cd game
-python main.py
-```
+    ```shell
+    cd game
+    python main.py
+    ```
 
 ### Running next time
 
