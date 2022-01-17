@@ -1,7 +1,7 @@
 import pygame
 
+from components.game import GameManger
 from constants import WIDTH, HEIGHT
-from game import GameManger
 
 
 def main():

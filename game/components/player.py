@@ -1,8 +1,8 @@
 import pygame
 
 from constants import WIDTH, HEIGHT
-from loaders import YELLOW_LASER, YELLOW_SPACE_SHIP
-from ship import Ship
+from components.loaders import YELLOW_LASER, YELLOW_SPACE_SHIP
+from components.ship import Ship
 
 
 class Player(Ship):

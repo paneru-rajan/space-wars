@@ -1,6 +1,6 @@
 import pygame
 
-from helpers import collide
+from components.helpers import collide
 
 
 class Laser:

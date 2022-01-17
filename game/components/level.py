@@ -1,8 +1,8 @@
 import random
 
 from constants import HEIGHT
-from enemy import EnemyBuilder
-from helpers import generate_random_enemy, collide
+from components.enemy import EnemyBuilder
+from components.helpers import generate_random_enemy, collide
 
 
 class Level:

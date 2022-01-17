@@ -1,6 +1,6 @@
 import pygame
 
-from laser import Laser
+from components.laser import Laser
 
 
 class Ship:

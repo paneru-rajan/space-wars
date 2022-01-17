@@ -1,11 +1,11 @@
 import pygame
 
-from fonts import Fonts
-from helpers import is_player_dead
-from level import Level
-from loaders import BG
-from movement import Movement
-from player import Player
+from components.fonts import Fonts
+from components.helpers import is_player_dead
+from components.level import Level
+from components.loaders import BG
+from components.movement import Movement
+from components.player import Player
 
 
 class GameManger:

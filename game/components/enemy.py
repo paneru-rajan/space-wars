@@ -1,7 +1,7 @@
 import pygame
 
-from loaders import RED_LASER, RED_SPACE_SHIP, GREEN_LASER, GREEN_SPACE_SHIP, BLUE_LASER, BLUE_SPACE_SHIP
-from ship import Ship
+from components.loaders import RED_LASER, RED_SPACE_SHIP, GREEN_LASER, GREEN_SPACE_SHIP, BLUE_LASER, BLUE_SPACE_SHIP
+from components.ship import Ship
 
 
 class Enemy(Ship):
